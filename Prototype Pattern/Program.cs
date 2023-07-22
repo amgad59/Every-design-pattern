@@ -8,4 +8,4 @@ Person p = new Person(new[] {"Amgad","Aly"},new Address { houseNumber=300,street
 Person p1 = p.DeepCopy();
 p1.names[0] = "Ahmad";
 Console.WriteLine(p.ToString());
-Console.WriteLine( p1.ToString() );
+Console.WriteLine(p1.ToString());

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Prototype_Pattern
 {
-    public class Person
+    public class Person 
     {
         public string []names;
         public Address address;
@@ -20,6 +20,8 @@ namespace Prototype_Pattern
             this.names = names;
             this.address = address;
         }
+
+
         public override string ToString()
         {
             return $"names: {string.Join(',', names)} \nHouse Number:{address.houseNumber}, Address:{address.streetAddress}";
