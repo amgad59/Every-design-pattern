@@ -1,4 +1,6 @@
-﻿/*
+﻿Console.WriteLine("Test");
+
+/*
  *  Abstract Factory pattern 2
  * 
  * 

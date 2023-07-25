@@ -22,5 +22,9 @@ namespace Adapter_Pattern.Generic_Value_Adapter
             }
             return result;
         }
+        public override string ToString()
+        {
+            return $"{string.Join(",", Data)}";
+        }
     }
 }

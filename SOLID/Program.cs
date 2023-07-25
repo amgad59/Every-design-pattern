@@ -1,4 +1,6 @@
 ﻿
+Console.WriteLine("Test");
+
 /*
  * high level modules shouldn't depend on low level modules; use abstractions
  * 
