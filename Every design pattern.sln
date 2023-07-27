@@ -45,6 +45,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Null Object Pattern", "Null
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer Pattern", "Observer Pattern\Observer Pattern.csproj", "{3CBCBFF0-E1AF-4EE3-B028-0AB1BE735F93}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "State Pattern", "State Pattern\State Pattern.csproj", "{9852DDC4-C7D5-4181-B80C-A4E71FF81E06}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,6 +133,10 @@ Global
 		{3CBCBFF0-E1AF-4EE3-B028-0AB1BE735F93}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CBCBFF0-E1AF-4EE3-B028-0AB1BE735F93}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CBCBFF0-E1AF-4EE3-B028-0AB1BE735F93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9852DDC4-C7D5-4181-B80C-A4E71FF81E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9852DDC4-C7D5-4181-B80C-A4E71FF81E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9852DDC4-C7D5-4181-B80C-A4E71FF81E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9852DDC4-C7D5-4181-B80C-A4E71FF81E06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -144,6 +150,7 @@ Global
 		{37451E15-69F7-40BD-AE93-D6F6A85B60F1} = {7BD09760-F26E-4814-945F-7FDFA5053E3D}
 		{4123C3D1-226E-430A-80B6-9F2F1674829F} = {7BD09760-F26E-4814-945F-7FDFA5053E3D}
 		{3CBCBFF0-E1AF-4EE3-B028-0AB1BE735F93} = {7BD09760-F26E-4814-945F-7FDFA5053E3D}
+		{9852DDC4-C7D5-4181-B80C-A4E71FF81E06} = {7BD09760-F26E-4814-945F-7FDFA5053E3D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {22B06B91-741D-47E0-9971-0817608EDA8E}
