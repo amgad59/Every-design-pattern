@@ -1,4 +1,6 @@
-﻿/*
+﻿
+
+/*
  * State Pattern example 3
  * 
 using State_Pattern.State_Pattern_3;
