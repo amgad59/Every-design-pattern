@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "State Pattern", "State Patt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy Pattern", "Strategy Pattern\Strategy Pattern.csproj", "{50793DD7-063A-411B-9569-8995E1D59E69}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Template Method Pattern", "Template Method Pattern\Template Method Pattern.csproj", "{426DC44B-5E20-4F2E-950E-1DF51B1A62AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -143,6 +145,10 @@ Global
 		{50793DD7-063A-411B-9569-8995E1D59E69}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50793DD7-063A-411B-9569-8995E1D59E69}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50793DD7-063A-411B-9569-8995E1D59E69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{426DC44B-5E20-4F2E-950E-1DF51B1A62AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{426DC44B-5E20-4F2E-950E-1DF51B1A62AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{426DC44B-5E20-4F2E-950E-1DF51B1A62AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{426DC44B-5E20-4F2E-950E-1DF51B1A62AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -158,6 +164,7 @@ Global
 		{3CBCBFF0-E1AF-4EE3-B028-0AB1BE735F93} = {7BD09760-F26E-4814-945F-7FDFA5053E3D}
 		{9852DDC4-C7D5-4181-B80C-A4E71FF81E06} = {7BD09760-F26E-4814-945F-7FDFA5053E3D}
 		{50793DD7-063A-411B-9569-8995E1D59E69} = {7BD09760-F26E-4814-945F-7FDFA5053E3D}
+		{426DC44B-5E20-4F2E-950E-1DF51B1A62AF} = {7BD09760-F26E-4814-945F-7FDFA5053E3D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {22B06B91-741D-47E0-9971-0817608EDA8E}
